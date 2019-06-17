@@ -1,0 +1,16 @@
+<templateSet group="other">
+  <template name="dci" value="@Component (dependencies = {}, modules = $CLASS_NAME$Module.class)&#10;public interface $CLASS_NAME$Component extends $CLASS_NAME$Provider {&#10;&#9;@Component.Builder&#10;&#9;interface Builder {&#10;&#9;&#9;$CLASS_NAME$Component build();&#10;&#9;}&#10;&#10;&#9;final class InjectorUtils {&#10;&#9;&#9;public InjectorUtils() {/**/}&#10;&#10;&#9;&#9;public static $CLASS_NAME$Provider inject() {&#10;&#9;&#9;&#9;return Dagger$CLASS_NAME$Component.builder()&#10;&#9;&#9;&#9;                                       .build();&#10;&#9;&#9;}&#10;&#9;}&#10;}" description="Dagger component interface" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+    </context>
+  </template>
+</templateSet>
