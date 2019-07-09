@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".buckconfig" type="PLAIN_TEXT" />
       <mapping pattern="provider_paths" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
