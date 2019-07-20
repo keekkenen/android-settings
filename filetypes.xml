@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".buckconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".buckconfig.local" type="PLAIN_TEXT" />
-      <mapping pattern="provider_paths" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
