@@ -100,9 +100,6 @@
   <action id="JProfiler.ShowInJProfilerBacktraces" />
   <action id="JProfiler.ShowInJProfilerOutgoing" />
   <action id="JProfiler.ShowInJProfilerThis" />
-  <action id="MembersPullUp">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -124,16 +121,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="NextOccurence" />
-  <action id="OpenInBrowserGroup">
-    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
-  </action>
-  <action id="PlantUML.Reload" />
   <action id="PopupHector" />
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
@@ -156,7 +146,6 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
-  <action id="RestoreDefaultLayout" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -201,8 +190,5 @@
   </action>
   <action id="XDebugger.CopyValue">
     <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="android.fd.HotswapAction">
-    <keyboard-shortcut first-keystroke="shift f12" />
   </action>
 </keymap>
