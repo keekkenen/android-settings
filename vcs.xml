@@ -34,4 +34,7 @@
     </option>
     <option name="cloneParentDir" value="D:\dev\java\projects\android" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
 </application>
