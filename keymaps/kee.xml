@@ -121,6 +121,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="NextOccurence" />
+  <action id="PlantUML.Reload" />
   <action id="PopupHector" />
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
