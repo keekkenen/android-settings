@@ -1,0 +1,9 @@
+<templateSet group="Kotlin">
+  <template name="le" value="ru.ifdsls.wms.util.Log.e($content$);" shortcut="ENTER" description="Log method name and its arguments" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="content" expression="groovyScript(&quot;def params = _1.collect {it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ');   return '\&quot;' + (params.empty  ? 'called' : params) + '\&quot;'&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
