@@ -1,44 +1,11 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="100" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
-  <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value />
-    </option>
-    <option name="IMPORT_LAYOUT_TABLE">
-      <value>
-        <package name="android" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="androidx" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="junit" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="net" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="org" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="java" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="javax" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="true" />
-        <emptyLine />
-      </value>
-    </option>
-  </JavaCodeStyleSettings>
-  <XML>
-    <option name="XML_KEEP_LINE_BREAKS" value="false" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  </XML>
+  <JetCodeStyleSettings>
+    <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
+    <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_SUPERTYPE_LISTS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_ELVIS" value="false" />
+    <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
+  </JetCodeStyleSettings>
   <codeStyleSettings language="CFML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -81,9 +48,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
       <rules>
@@ -183,5 +150,27 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="EXTENDS_LIST_WRAP" value="2" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
+    <option name="ENUM_CONSTANTS_WRAP" value="1" />
+    <option name="WRAP_ON_TYPING" value="1" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
