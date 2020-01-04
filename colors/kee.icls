@@ -657,7 +657,15 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
