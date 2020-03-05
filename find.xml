@@ -11,9 +11,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Module.java</mask>
-    <mask>*.java</mask>
     <mask>*.cs</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>P*.java</mask>
+    <mask>*.kt</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

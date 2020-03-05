@@ -3,5 +3,6 @@
     <notification groupId="Android Notification Group" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Checkstyle IDEA Alerts" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
   </component>
 </application>
