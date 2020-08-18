@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/badoo/MVICore.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/C5FR7Q/Jungle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\java\projects\android" />
