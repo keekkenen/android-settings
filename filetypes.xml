@@ -4,8 +4,8 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".buckconfig" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
