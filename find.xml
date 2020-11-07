@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'androidmvi'" />
-    <option name="defaultScopeName" value="Project 'androidmvi'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'androidmvi'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +17,8 @@
     <mask>*.cs</mask>
     <mask>P*.java</mask>
     <mask>*.kt</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
