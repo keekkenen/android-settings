@@ -1,0 +1,24 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*Module.java</mask>
+    <mask>*.cs</mask>
+    <mask>P*.java</mask>
+    <mask>*.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*Component.java</mask>
+    <mask>*Bu.java</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle</mask>
+  </component>
+</application>
