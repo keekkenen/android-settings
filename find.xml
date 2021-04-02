@@ -19,6 +19,7 @@
     <mask>*Component.java</mask>
     <mask>*Bu.java</mask>
     <mask>*.gradle</mask>
+    <mask>Lt*y.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
