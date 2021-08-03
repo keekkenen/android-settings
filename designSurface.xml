@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dev/Projects/android/migrate/sources/base/core-ui/src/main/res/layout/actionbar.xml" value="0.1" />
+        <entry key="..\:/dev/Projects/android/migrate/sources/feature/inventcycle/src/main/res/layout/activity_invent_cycle.xml" value="0.2171002295332823" />
+        <entry key="..\:/dev/Projects/android/migrate/sources/feature/inventur/src/main/res/layout/activity_inventur.xml" value="0.1921875" />
+        <entry key="..\:/dev/Projects/android/migrate/sources/feature/inventurlist/src/main/res/layout/activity_inventurlist.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
