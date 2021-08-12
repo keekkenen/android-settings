@@ -16,9 +16,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
-    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt delete" />
@@ -51,6 +53,9 @@
   </action>
   <action id="EditorCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
