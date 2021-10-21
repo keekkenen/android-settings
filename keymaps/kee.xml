@@ -123,6 +123,9 @@
   <action id="JProfiler.ShowInJProfilerBacktraces" />
   <action id="JProfiler.ShowInJProfilerOutgoing" />
   <action id="JProfiler.ShowInJProfilerThis" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -206,6 +209,8 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.PrintGraph">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
