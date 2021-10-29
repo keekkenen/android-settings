@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/dashkudik/Jule.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ktvipin27/android-studio-custom-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\java\projects\android" />
