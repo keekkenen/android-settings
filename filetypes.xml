@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="buildValidator" type="AUTO_DETECTED" />
       <mapping pattern="validator" type="AUTO_DETECTED" />
       <mapping pattern="Jenkins*" type="Groovy" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".buckconfig" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="vlt" type="PLAIN_TEXT" />
