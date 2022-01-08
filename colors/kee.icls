@@ -27,8 +27,10 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="4d4d4b" />
     <option name="GUTTER_BACKGROUND" value="313335" />
     <option name="INDENT_GUIDE" value="373737" />
+    <option name="INFORMATION_HINT" value="eaea0f" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="505050" />
     <option name="MODIFIED_LINES_COLOR" value="" />
@@ -148,7 +150,6 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -503,6 +504,12 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="cccccc" />
+      </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
