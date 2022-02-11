@@ -1,19 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="validator" type="AUTO_DETECTED" />
       <mapping pattern="buildValidator" type="AUTO_DETECTED" />
+      <mapping pattern="validator" type="AUTO_DETECTED" />
       <mapping pattern="Jenkins*" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".buckconfig" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="vlt" type="PLAIN_TEXT" />
-      <mapping ext="rm" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="rm" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
-      <mapping ext="gv" type="dot file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
