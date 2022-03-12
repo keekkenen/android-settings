@@ -1,5 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings" DisableInjections="true" HideErrors="true">
+    <MarkdownPreviewSettings VerticalSplit="false" />
     <enabledExtensions>
       <entry key="MermaidLanguageExtension" value="true" />
       <entry key="PlantUMLLanguageExtension" value="false" />

@@ -1,4 +1,5 @@
 <keymap version="1" name="kee" parent="$default">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
