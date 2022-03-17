@@ -11,6 +11,7 @@
       <mapping ext="vlt" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="rm" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
