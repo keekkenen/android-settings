@@ -4,7 +4,7 @@
     <property name="created">2022-04-05T21:23:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-04-05T21:28:18</property>
+    <property name="modified">2022-04-05T22:07:16</property>
     <property name="originalScheme">kee</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -48,7 +48,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="161616" />
+    <option name="SELECTION_BACKGROUND" value="2927" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555555" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
@@ -332,7 +332,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="450505" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_COLOR" value="c3c3c3" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -1008,7 +1008,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="1d1d1d" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
