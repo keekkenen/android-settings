@@ -18,9 +18,9 @@
     <mask>*Component.java</mask>
     <mask>*Bu.java</mask>
     <mask>*ry.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Reducer.java</mask>
+    <mask>*.gradle</mask>
     <mask>*.java</mask>
   </component>
 </application>
