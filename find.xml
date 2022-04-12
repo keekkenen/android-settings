@@ -3,7 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,9 +18,9 @@
     <mask>*Component.java</mask>
     <mask>*Bu.java</mask>
     <mask>*ry.java</mask>
-    <mask>*.xml</mask>
     <mask>*Reducer.java</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
