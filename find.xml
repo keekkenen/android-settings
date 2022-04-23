@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -21,7 +19,7 @@
     <mask>*ry.java</mask>
     <mask>*Reducer.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
