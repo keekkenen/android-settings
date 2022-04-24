@@ -16,6 +16,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="CallHierarchy" />
   <action id="CloseAllEditorsButActive">
@@ -95,6 +96,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
