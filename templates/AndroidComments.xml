@@ -1,0 +1,5 @@
+<templateSet group="AndroidComments">
+  <template name="todo" value="// TODO kee: not implemented yet " description="adds // TODO" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
