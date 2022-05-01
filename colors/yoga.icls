@@ -4,7 +4,7 @@
     <property name="created">2022-04-05T21:23:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-04-24T13:00:58</property>
+    <property name="modified">2022-04-28T16:32:35</property>
     <property name="originalScheme">kee</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -157,6 +157,7 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -266,7 +267,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
