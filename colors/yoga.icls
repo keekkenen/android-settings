@@ -4,7 +4,7 @@
     <property name="created">2022-04-05T21:23:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-04-28T16:32:35</property>
+    <property name="modified">2022-05-12T18:06:02</property>
     <property name="originalScheme">kee</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -40,6 +40,7 @@
     <option name="INDENT_GUIDE" value="373737" />
     <option name="INFORMATION_HINT" value="" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
+    <option name="LOOKUP_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="505050" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
@@ -157,7 +158,6 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
