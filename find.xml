@@ -21,5 +21,6 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*Step.java</mask>
   </component>
 </application>

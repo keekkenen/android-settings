@@ -217,6 +217,9 @@
   <action id="UML.PrintGraph">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
