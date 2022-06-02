@@ -92,11 +92,6 @@
           <option name="SHOW_LINE_NUMBERS" value="false" />
         </PlaceSettings>
       </entry>
-      <entry key="VcsFileHistoryView">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="VcsLogView">
         <PlaceSettings />
       </entry>
