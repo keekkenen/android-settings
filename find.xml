@@ -26,8 +26,8 @@
     <mask>*Reducer.java</mask>
     <mask>*Step.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*Module.java</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
