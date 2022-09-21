@@ -4,7 +4,7 @@
     <property name="created">2022-04-05T21:23:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-05-12T18:06:02</property>
+    <property name="modified">2022-09-21T16:54:03</property>
     <property name="originalScheme">kee</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -49,7 +49,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="2927" />
+    <option name="SELECTION_BACKGROUND" value="18333e" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555555" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
